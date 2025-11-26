@@ -1,1 +1,1 @@
-Projeto para a segunda avaliação da disciplina de front-end. Desenvolvimento do um portifólio web dinâmico para aluno de Design Gráfico.
+Projeto para a segunda avaliação da disciplina de front-end. Desenvolvimento do um portifólio web dinâmico para aluno de Design Gráfico Emanuel Dantas.
